@@ -229,11 +229,9 @@
                 <p class="p-3"><b>Ehe enena anchi bacheru yasalefnew nw btam bachiru ena bezi beliyu kensh wede wala meles laregesh slasebku nw yne liyu bezi beliyu ken anchi bemweldsh bcha anchi bemenorsh bcha bezuwoch behiwot destgna nachew btely ene anchin slalegn btam edlgna ngn kalat ko nw metasachiw mn endmlsh hula gra gbagn bcha yne liyu hulem nurilgn destgna hugnilgn.</b></p>
             </div>
         </section>
-
-        
-                <section class="container p-3">
+                <section>
                     <div class="p-3 ">
-                        <h1 id="advise" class="">Advise</h1>
+                        <h1 id="advise" class=""></h1>
                         <blockquote class="blockquote">
                            <p><b>As your brother and someone who deeply cares about your growth and happiness, I want to share some important insights with you</b>.</p>
 
@@ -266,7 +264,7 @@
                     </div>
 
                 </section>
-                <section class="container p-3">
+                <section>
                     <div class="p-3">
                         <h1 id="wish" > My Wish</h1>
                         <p><b>>On this special day, I want to take a moment to wish you the happiest of birthdays. As you celebrate another year of life, may your heart be filled with joy, your dreams be filled with possibilities, and your days be filled with love and laughter.
@@ -285,7 +283,9 @@
                             <p><i>Jm ferehan</i></p>
                     </div>
                 </section>
-                
+                <section>
+                  <a href="https://gifft.me/p#yq4WuENoiHcziz1jzEAU"><button>Open me</button></a>
+                </section>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
 </html>
